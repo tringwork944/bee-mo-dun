@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS cham_cong;
+DROP TABLE IF EXISTS nhan_vien;
+DROP TABLE IF EXISTS chuc_vu;
+DROP TABLE IF EXISTS phong_ban;
